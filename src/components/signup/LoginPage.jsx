@@ -80,7 +80,7 @@ const LoginPage = () => {
             </Link>
           </span>
         </div>
-          <Link className="text-2xl text-center" to='/shop'>Click here for shop page</Link>
+          <Link className="text-2xl text-center" to='/shop'>Click here for shop page This text will removed later</Link>
       </motion.div>
     </div>
   );

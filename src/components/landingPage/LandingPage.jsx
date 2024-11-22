@@ -27,7 +27,7 @@ const LandingPage = () => {
           // Set the image URL after a delay for the transition effect
           setIsTransitioning(true);
           setTimeout(() => {
-            setBackgroundImage(imageUrl); // Change the background image after 5-6 seconds
+            // setBackgroundImage(imageUrl); // Change the background image after 5-6 seconds
             setIsTransitioning(false);
           }, 1000); // Wait for 1 second before applying the new image
         } else {
