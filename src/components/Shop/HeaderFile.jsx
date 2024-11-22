@@ -89,7 +89,7 @@ const Header = () => {
             </li>
             {/* User Avatar in Mobile Menu */}
             <li>
-              <a href="/profile" className="flex items-center space-x-2">
+              <a href="/discord" className="flex items-center space-x-2">
                 <img
                   src="https://via.placeholder.com/40" // Replace with your avatar image URL
                   alt="User Avatar"
